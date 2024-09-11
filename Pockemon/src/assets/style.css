@@ -1,0 +1,12 @@
+body{
+    background-color: #d5cabd;
+}
+.pock-img{
+    background-color: white;
+    
+}
+.pock-img:hover{
+    transition: 2s;
+    border: 2px solid #ede5ef;
+   
+}
